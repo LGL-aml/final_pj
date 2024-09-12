@@ -1,0 +1,30 @@
+body{
+    display: block;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+.container{
+    padding: 20px;
+    min-height: 100vh;
+}
+.container li{
+    color: blue;
+    cursor: pointer;
+}
+.contact-footer{
+    background-color: #c7c3c3;
+    width: 100%;
+    box-sizing: border-box;
+    height: 100%;
+    text-align: center;
+}
+.contact-footer .content {
+    max-width: 800px;
+}
+.social-icons{
+    font-size: 30px;
+    cursor: pointer;
+}
+
+
